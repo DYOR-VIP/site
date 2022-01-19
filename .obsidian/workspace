@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "b11488c0d051e88f",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e9fe8bdf6da9cb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c726e82ab21b589f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdc29470dc1b2f58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68759e062977f4f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe9733dc2626a546",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e91d82ef501ffc40",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d7419f1fe9758c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7ffb14a6837f2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66e9fe8bdf6da9cb",
+  "lastOpenFiles": [
+    "Signup List.md",
+    "Whitepapers/Bitcoin.pdf.md"
+  ]
+}
